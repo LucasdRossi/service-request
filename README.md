@@ -1,6 +1,6 @@
 # Service Request
 
-> This is a assistance web app
+> A web app to request a service
 
 ## :tv: Demo
 
